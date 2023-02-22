@@ -1,4 +1,8 @@
-`Author - Shamura Ahmad 
+/* 
+
+Author - Shamura Ahmad 
+
+*/
 package com.mycompany.dijkstra;
 
 import java.util.*;
